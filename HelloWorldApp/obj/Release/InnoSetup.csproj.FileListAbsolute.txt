@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\bin\Release\InnoSetup.exe.config
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\bin\Release\InnoSetup.exe
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\bin\Release\InnoSetup.pdb
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\obj\Release\InnoSetup.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\obj\Release\InnoSetup.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\obj\Release\InnoSetup.exe
+C:\Users\Lenovo\Documents\Projects\InnoSetup\InnoSetup\obj\Release\InnoSetup.pdb

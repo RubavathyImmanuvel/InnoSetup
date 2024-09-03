@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\bin\Release\HelloWorldApp.exe.config
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\bin\Release\HelloWorldApp.exe
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\bin\Release\HelloWorldApp.pdb
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\obj\Release\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\obj\Release\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\obj\Release\HelloWorldApp.exe
+C:\Users\Lenovo\Documents\Projects\InnoSetup\HelloWorldApp\obj\Release\HelloWorldApp.pdb
